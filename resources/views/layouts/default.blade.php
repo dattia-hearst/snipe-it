@@ -1767,7 +1767,7 @@
                         <a target="_blank" href="https://bsky.app/profile/snipeitapp.com" rel="noopener" data-tooltip="true" data-title="Join us on Bluesky">
                             <i class="fa-brands fa-square-bluesky"></i>
                         </a>
-                        <a target="_blank" href="https://hachyderm.io/@grokability" rel="noopener" data-tooltip="true" data-title="Join us on Github">
+                        <a target="_blank" href="https://github.com/grokability" rel="noopener" data-tooltip="true" data-title="Join us on Github">
                             <i class="fa-brands fa-square-github"></i>
                         </a>
                         <a target="_blank" href="https://hachyderm.io/@grokability" rel="noopener" data-tooltip="true" data-title="Join us on Mastodon">
